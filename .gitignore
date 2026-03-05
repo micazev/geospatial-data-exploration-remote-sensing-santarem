@@ -1,0 +1,20 @@
+# Dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+*.egg-info/
+.venv/
+
+# Data files (too large for git)
+backend/data/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
